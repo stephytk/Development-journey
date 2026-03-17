@@ -1,0 +1,20 @@
+
+sports:
+    cricket:
+        India
+        Australia
+    Football:
+        Brazil
+        France
+    
+Movies:
+    malayalam:
+        Manichithrathazhu
+        Pharma
+    Tamil:
+        Leo
+        Khushi
+    Kannada:
+        KGF1
+        KANTARA
+
