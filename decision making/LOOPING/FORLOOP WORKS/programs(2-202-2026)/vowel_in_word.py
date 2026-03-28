@@ -9,5 +9,7 @@ vowels="aeiou"
 for ch in word:
     
     if ch in vowels:
-        break
-print(ch)       
+
+    
+        
+        print(ch)   

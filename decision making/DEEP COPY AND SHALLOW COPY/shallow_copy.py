@@ -10,3 +10,4 @@ hari_fav_color[0]="purple"
 print("Arun",arun_fav_color)
 
 print("Hari",hari_fav_color)
+cons
